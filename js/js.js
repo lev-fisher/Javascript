@@ -102,7 +102,7 @@ arr.reverse()
 CONSOLE ONLY*/
 
 
-/* TEST FUNCTIONS */
+/* TEST FUNCTIONS #1*/
 
 //#1
 /*var foo=function(name) {
