@@ -1,0 +1,16 @@
+body {
+	background-color: #DCDCDC;
+}
+.yellow {
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+	outline-style: dashed;
+	outline-offset: -15px;
+	background-color: #00FF00
+	}
+	.yellow > hi {
+		background-color: FFFF00
+		text-align: center;
+		text-transform: uppercase;
+	}
