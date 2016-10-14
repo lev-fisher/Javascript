@@ -122,7 +122,7 @@ console.log(sum(5, 3));*/
 	for (var i=0; i<arguments.length; i++){
 		sum += arguments[i];
 	}
-	
+
 	return sum
 };
 
@@ -130,21 +130,21 @@ console.log(sum(2, 4, 3))
 */
 
 //#3
-function min() {
+/*function min() {
 	var min=argument[];
 	for(var i=0; i<arguments.length)
-	
-	
-}
 
-	 
+
+}*/
+
+
 
 
 //#4
 
 //Notates
 	//Math.floor(Math.random()*1000)
-	//only console
+	//only console, its cool!
 
 
 
